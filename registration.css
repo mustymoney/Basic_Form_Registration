@@ -1,0 +1,39 @@
+body{
+    background-color: lightblue;
+}
+div{
+    width: 300px;
+    font-family:Arial, sans-serif;
+    height: 710px;
+    border: 1px solid;
+    text-align: center;
+    background-color: #ffffff;
+}
+h4{
+    width: 300px;
+    height: 20px;
+    margin-top: 0px;
+    text-align: center;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    background-color: lightcyan;
+    font-size: 25px;
+}
+#name{
+ width:250px;
+ height: 35px;
+}
+.Gender{
+    font-size: 19px;
+}
+select{
+    width:260px;
+    height: 39px;  
+}
+button{
+    background-color: lightblue;
+    width:250px;
+    height: 40px;
+    border:none;
+    border-bottom: 2px solid;
+}
